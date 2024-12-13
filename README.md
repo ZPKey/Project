@@ -1,3 +1,9 @@
 # Project
 
-This project has run into the roadblock of me being unable to figure out how to progress the project beyond it's initial points; as such, I will put down what I have done so far in this Github, and then write down what I got stuck on.
+This project has run into the roadblock of me being unable to figure out how to progress the project beyond a certain point due to my own inadequacies; as such, I will note what I have done so far in this Github along with some code to show parts of what has been done (because this is incomplete so far, I'd rather save the massive amounts of text from taking up space) and then note what I haven't done in the section below.
+
+What I have done: I've been able to find a scraping tool for video game reviews that worked very successfully (thank you to Alexander Blintsov for creation of the tool) and was able to download the reviews for all the games I would have liked to review. Attached to this github is a CSV containing the results of one of these scrapes for one specific game, to showcase what it would look like. I then was able to transform the reviews into a list of words, and search for specific words in my list. I can find if words in queries are in said list. Attached is a .ipynb (a Jupyter notebook page) showing these results.
+
+What I have not done: I have not been able to successfully to formulate a query algorithm to compare games when less than 10 games have the direct query sitting in the initial query; nor have I created a ranking system for which games should come up if multiple games beyond the 10 required have said query in them. Furthermore, due to the lack of a query algorithm to rank, I have not been able to compile results such as Precision, Recall, or NDCG@10. I also have not come up with a very user friendly way to use what code I do have, unfortunately.
+
+Finally, due to its requirement as part of the project, I have made a video showcasing the things I do have, but I do not expect it will be very enlightening due to the lack of work that I have done on this project. Link: 
