@@ -6,4 +6,4 @@ What I have done: I've been able to find a scraping tool for video game reviews 
 
 What I have not done: I have not been able to successfully to formulate a query algorithm to compare games when less than 10 games have the direct query sitting in the initial query; nor have I created a ranking system for which games should come up if multiple games beyond the 10 required have said query in them. Furthermore, due to the lack of a query algorithm to rank, I have not been able to compile results such as Precision, Recall, or NDCG@10. I also have not come up with a very user friendly way to use what code I do have, unfortunately.
 
-Finally, due to its requirement as part of the project, I have made a video showcasing the things I do have, but I do not expect it will be very enlightening due to the lack of work that I have done on this project. Link: 
+Finally, due to its requirement as part of the project, I have made a video showcasing the things I do have, but I do not expect it will be very enlightening due to the lack of work that I have done on this project. Link: https://youtu.be/fgsqLcgEq6E
